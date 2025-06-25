@@ -1,4 +1,4 @@
-# 📊 Data Science Projects
+# 📊 Data Science + 🤖 Machine Learning Projects
 
 A curated collection of my personal data science projects, covering data analysis, visualization, and machine learning using Python and other tools.
 
@@ -9,6 +9,9 @@ A curated collection of my personal data science projects, covering data analysi
 - [Chocolate Sales Analysis](https://github.com/yourusername/ecommerce-sales-analysis)  
   Exploratory analysis of sales, products and revenue trends.
 
+## 🤖 Machine Learning Projects
+-
+Data cleaning and creation of a basic movie/tv show recommendation system.
 
 
 ## 🔧 Technologies Used
