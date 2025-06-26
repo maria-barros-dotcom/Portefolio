@@ -6,7 +6,7 @@ A curated collection of my personal data science projects, covering data analysi
 
 ## 📊 Data Analysis Projects
 
-- [Chocolate Sales Analysis](https://github.com/yourusername/ecommerce-sales-analysis)  
+- [Chocolate Sales Analysis](Chocolate-sales-analysis)  
   Exploratory analysis of sales, products and revenue trends.
 
 ## 🤖 Machine Learning Projects
