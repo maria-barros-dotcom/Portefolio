@@ -10,7 +10,7 @@ A curated collection of my personal data science projects, covering data analysi
   Exploratory analysis of sales, products and revenue trends.
 
 ## 🤖 Machine Learning Projects
--[Movie recommendation system](https://github.com/yourusername/ecommerce-sales-analysis) 
+-[Movie recommendation system](Movie recommendation system) 
 Data cleaning and creation of a basic movie/tv show recommendation system.
 
 
