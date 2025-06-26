@@ -11,7 +11,7 @@ A curated collection of my personal data science projects, covering data analysi
 
 ## 🤖 Machine Learning Projects
 - [Movie recommendation system](https://github.com/maria-barros-dotcom/Portefolio/tree/main/Movie%20recommendation%20system)
-Data cleaning and creation of a basic movie/tv show recommendation system.
+  Data cleaning and creation of a basic movie/tv show recommendation system.
 
 
 ## 🔧 Technologies Used
