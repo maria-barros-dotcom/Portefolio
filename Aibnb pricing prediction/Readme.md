@@ -14,3 +14,5 @@ Predicting optimal Airbnb listing prices using machine learning to help hosts co
 
 **🛠️ Tools**: Python, Pandas, XGBoost, LightGBM, Scikit-learn, Jupyter
 
+#### Data used: 
+https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data?resource=download
