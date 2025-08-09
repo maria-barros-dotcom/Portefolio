@@ -1,0 +1,9 @@
+streamlit
+requests
+pandas
+matplotlib
+nltk
+plotly
+python-dotenv
+wordcloud
+altair
