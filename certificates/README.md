@@ -7,4 +7,4 @@ Here are some of the data-related courses I’ve completed:
 - 🖊️ [Excel– Santander Open Acadamy](certificado_excel.pdf)
 
 LIP Internship Certificate:
-- 📡 (certificateMaria.pdf)
+- 📡 [LIP Internship](certificateMaria.pdf)
