@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# SQLite DB
+*.db
+
+# Jupyter checkpoints (if any)
+.ipynb_checkpoints/
